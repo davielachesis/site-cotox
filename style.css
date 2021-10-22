@@ -1,0 +1,253 @@
+@import url(https://db.onlinewebfonts.com/c/f3258385782c4c96aa24fe8b5d5f9782?family=Old+English+Text+MT);
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.topo{
+    
+    font-family: 'Old English Text MT';
+    src: url("http://db.onlinewebfonts.com/t/f3258385782c4c96aa24fe8b5d5f9782.eot"); 
+    color: whitesmoke;
+    font-size: 86pt;
+    font-weight: 100;
+    text-align: center;
+    border-bottom: whitesmoke 4px solid;
+    border-width: 90%;
+    padding-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+    
+}
+
+
+
+
+.titulo{
+
+    text-align: center;
+    border-bottom: wheat 2px solid;
+    width: 70%;
+    margin:auto;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    font-family: 'Old English Text MT';
+    color: white;
+    font-size: 30pt;
+    font-weight: 100;
+    
+}
+
+ul{
+
+    color: white;
+    font-size: 20pt;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+
+}
+
+title{
+
+    background-color: black;
+
+}
+
+.texto1 li{
+
+    list-style-type: none;
+    border-bottom: white 2px solid;
+    text-align: center;
+    padding-bottom:10px;
+    width: 90%;
+    font-family: 'Old English Text MT';
+    font-size: 35px;
+    align-items: center;
+    justify-content: center;
+    border-bottom:  white 2px solid;
+    border-left: white 2px solid;
+    border-right: white 2px solid;
+    padding: 10px;
+    width: 280px;
+    margin:0px;
+    cursor:pointer;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgb(29, 29, 29);
+
+}
+
+body{
+
+    background-color: black;
+
+}
+.crew{
+
+    text-align: center;
+    
+}
+
+.intro{
+
+    border-top: solid 2px wheat;
+    width: 80%;
+
+}
+
+.intro li{
+
+    text-align: right;
+    font-family: 'Volkhov';
+    font-weight: 500;
+    font-size: 22pt;
+    width: 50%;
+    justify-content: left;
+    list-style-type: none;
+    text-align: left;
+    margin: 0px;
+    padding-bottom: 30px;
+
+}
+
+.intro img{
+
+    width: 100%;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    margin: 0px;
+}
+
+.aniquilamento li {
+
+    text-align: left;
+    font-family: 'Volkhov';
+    font-weight: 500;
+    font-size: 17pt;
+    width: 60%;
+    justify-content: left;
+    list-style-type: none;
+    margin: 0px;
+    padding-bottom: 30px;
+}
+
+.aniquilamento{
+
+    border-width: 90%;
+}
+
+.aniquilamento img{
+    width: 100%;
+    text-align: left;
+
+}
+
+.aniquilamento li{
+    padding-left: 20px
+}
+
+.servicos h1{
+
+    border-top: 2px wheat solid;
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Old English Text MT';
+    font-weight: 400;
+    font-size: 38pt;
+    border-width: 80%;
+
+}
+
+.destruicao li{
+
+    text-align: left;
+    font-family: 'Volkhov';
+    font-weight: 500;
+    font-size: 20pt;
+    width: 50%;
+    justify-content: left;
+    list-style-type: none;
+    margin: 0px;
+    padding-bottom: 30px;
+
+}
+
+.destruicao img{
+
+    text-align: right;
+    justify-content: right;
+    align-items: right;
+    width: 100%;
+
+}
+
+.choramento{
+
+    border-width: 90%;
+
+}
+
+.choramento li{
+
+    text-align: left;
+    font-family: 'Volkhov';
+    font-weight: 500;
+    font-size: 15pt;
+    width: 50%;
+    justify-content: left;
+    list-style-type: none;
+    margin: 0px;
+    padding-bottom: 30px;
+
+}
+
+.choramento img{
+
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    width: 100%;
+
+}
+
+.equipe{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.bonde h1{
+
+    border-top: 2px wheat solid;
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Old English Text MT';
+    font-weight: 400;
+    font-size: 38pt;
+    border-width: 80%;
+
+}
+
+.equipe li{
+
+    text-align: center;
+    list-style-type: none;
+
+}
+
+.equipe img{
+
+    width: 186px;
+}
+
