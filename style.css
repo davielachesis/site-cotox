@@ -151,6 +151,18 @@ body{
     padding-left: 20px
 }
 
+.alopramento li{
+    text-align: left;
+    font-family: 'Volkhov';
+    font-weight: 500;
+    font-size: 20pt;
+    width: 50%;
+    justify-content: left;
+    list-style-type: none;
+    margin: 0px;
+    padding-bottom: 30px;
+}
+
 .servicos h1{
 
     border-top: 2px wheat solid;
