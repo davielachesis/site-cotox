@@ -155,12 +155,16 @@ body{
     text-align: left;
     font-family: 'Volkhov';
     font-weight: 500;
-    font-size: 20pt;
+    font-size: 14pt;
     width: 50%;
     justify-content: left;
     list-style-type: none;
     margin: 0px;
     padding-bottom: 30px;
+}
+
+.alopramento img{
+    width:100%;
 }
 
 .servicos h1{
